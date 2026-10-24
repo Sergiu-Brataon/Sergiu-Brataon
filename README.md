@@ -1,4 +1,10 @@
-<h1 data-importer="text" align="center">Hey 👋</h1>
+<h1 data-importer="text" align="left">Hey 👋 I'm Sergiu.</h1>
+
+<div data-importer="socials" align="centre">
+  <a href="https://www.linkedin.com/in/sergiu-brataon/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
@@ -24,14 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" alt="redhat logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-</div>
-
-###
-
-<div data-importer="socials" align="centre">
-  <a href="https://www.linkedin.com/in/sergiu-brataon/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###

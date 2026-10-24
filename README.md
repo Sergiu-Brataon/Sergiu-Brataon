@@ -1,10 +1,15 @@
-<h1 data-importer="text" align="left">Hey 👋 I'm Sergiu.</h1>
-
-<div data-importer="socials" align="right">
-  <a href="https://www.linkedin.com/in/sergiu-brataon/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+<table>
+  <tr>
+    <td><h1 data-importer="text">Hey 👋 I'm Sergiu.</h1></td>
+    <td align="right">
+      <div data-importer="socials">
+        <a href="https://www.linkedin.com/in/sergiu-brataon/" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -32,9 +37,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
 
-###
+<!-- ###
 
-<img data-importer="image" align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZiaGRxcWp0Mmkyc21jZ2E4aGNzOHNjaTVvcGVmaDNtbDZlMTl6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
+<img data-importer="image" align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZiaGRxcWp0Mmkyc21jZ2E4aGNzOHNjaTVvcGVmaDNtbDZlMTl6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  /> -->
 
 ###
 

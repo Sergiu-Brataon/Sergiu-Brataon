@@ -1,15 +1,7 @@
-<table width="100%" border="0">
-  <tr>
-    <td align="left"><h1 data-importer="text">Hey 👋 I'm Sergiu.</h1></td>
-    <td align="right">
-      <div data-importer="socials">
-        <a href="https://www.linkedin.com/in/sergiu-brataon/" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+<h1 data-importer="text">
+  Hey 👋 I'm Sergiu.
+  <a href="https://www.linkedin.com/in/sergiu-brataon/" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" height="22" alt="linkedin logo" /></a>
+</h1>
 
 ###
 
@@ -43,13 +35,15 @@
 
 ###
 
-<div data-importer="stats" align="centre">
+<div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=Sergiu-Brataon&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+</div>
 
 ---
 

@@ -1,8 +1,11 @@
 <h1 data-importer="text" align="center">
   Hey 👋, I'm Sergiu.<br>
-  A recent CS grad, currently working as a SWE.<br>
-  <a href="https://www.linkedin.com/in/sergiu-brataon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="50" vspace="20" alt="linkedin logo" /></a>
+  A recent CS grad, currently working as a SWE.
 </h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sergiu-brataon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" width="140" alt="linkedin logo" /></a>
+</p>
 
 ###
 

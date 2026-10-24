@@ -1,6 +1,6 @@
-<table>
+<table width="100%" border="0">
   <tr>
-    <td><h1 data-importer="text">Hey 👋 I'm Sergiu.</h1></td>
+    <td align="left"><h1 data-importer="text">Hey 👋 I'm Sergiu.</h1></td>
     <td align="right">
       <div data-importer="socials">
         <a href="https://www.linkedin.com/in/sergiu-brataon/" target="_blank">
@@ -43,7 +43,7 @@
 
 ###
 
-<div data-importer="stats" align="left">
+<div data-importer="stats" align="centre">
   <img src="https://streak-stats.demolab.com?user=Sergiu-Brataon&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 

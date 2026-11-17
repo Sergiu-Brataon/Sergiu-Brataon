@@ -3,14 +3,6 @@
   A recent CS grad, currently working as a SWE.
 </h1>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/sergiu-brataon/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
-         width="140"
-         alt="linkedin logo" />
-  </a>
-</div>
-
 ###
 
 <div data-importer="techs" align="center">
@@ -42,6 +34,16 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sergiu-brataon/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+         width="140"
+         alt="linkedin logo" />
+  </a>
 </div>
 
 ---
